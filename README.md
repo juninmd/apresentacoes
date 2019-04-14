@@ -12,6 +12,7 @@
 - [Slack](https://github.com/juninmd/Curso-Slack) 28/07/2017
 - [Angular 4](https://github.com/juninmd/Curso-Angular-4) 18/04/2017
 - [LabsSchool - Curso Node Js](https://github.com/juninmd/curso-node-js) 02/07/2018
+- [Curso HTML + Javascript](https://github.com/juninmd/curso-html-aula-1)
 
 > Work in progres...
 
