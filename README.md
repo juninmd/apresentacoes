@@ -1,5 +1,8 @@
 # Apresentações
-Lista de todas as minhas apresentações
+
+![Power Point!](./.github/apresentacao.gif)
+
+> Repositórios de todas as minhas apresentações
 
 - [Fatec Franca TechWeek - P.W.A](https://github.com/juninmd/apresentacao-pwa) 27/05/2018
 - [Fatec Franca TechWeek - Curso Ionic 3](https://github.com/juninmd/Curso-Ionic-3) 10/05/2017
@@ -9,5 +12,6 @@ Lista de todas as minhas apresentações
 - [Slack](https://github.com/juninmd/Curso-Slack) 28/07/2017
 - [Angular 4](https://github.com/juninmd/Curso-Angular-4) 18/04/2017
 
-## ? (W.I.P.)
-- https://github.com/juninmd/apresentacao-rust-lang
+> Work in progres...
+
+- [Apresentação Rust Lang](https://github.com/juninmd/apresentacao-rust-lang) ?
