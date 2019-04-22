@@ -14,6 +14,6 @@
 - [LabsSchool - Curso Node Js](https://github.com/juninmd/curso-node-js) 02/07/2018
 - [Curso HTML + Javascript](https://github.com/juninmd/curso-html-aula-1)
 
-> Work in progres...
+> Work in progress...
 
 - [Apresentação Rust Lang](https://github.com/juninmd/apresentacao-rust-lang) ?
