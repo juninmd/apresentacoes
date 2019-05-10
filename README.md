@@ -14,6 +14,8 @@
 - [LabsSchool - Curso Node Js](https://github.com/juninmd/curso-node-js) 02/07/2018
 - [Curso HTML + Javascript](https://github.com/juninmd/curso-html-aula-1)
 - [Apresentacao Global Azure Pwa](https://github.com/juninmd/apresentacao-global-azure-pwa) 27/04/2019
+- [ECMAScript 2019](https://github.com/juninmd/ecmascript-2019) 10/05/2019
+
 
 > Work in progress...
 
