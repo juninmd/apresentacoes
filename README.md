@@ -15,7 +15,7 @@
 - [Curso HTML + Javascript](https://github.com/juninmd/curso-html-aula-1)
 - [Apresentacao Global Azure Pwa](https://github.com/juninmd/apresentacao-global-azure-pwa) 27/04/2019
 - [ECMAScript 2019](https://github.com/juninmd/ecmascript-2019) 10/05/2019
-
+- [Fatec Franca TechWeek - Autoconfiança]([https://github.com/juninmd/ecmascript-2019](https://docs.google.com/presentation/d/1msOQX4S1kQ-YZAnWDKpb7g4CUAFwNcdmSy_JVbMyKnc/edit?pli=1#slide=id.g742e3e7cd_1_16)https://docs.google.com/presentation/d/1msOQX4S1kQ-YZAnWDKpb7g4CUAFwNcdmSy_JVbMyKnc/edit?pli=1#slide=id.g742e3e7cd_1_16) 27/10/2023
 
 > Work in progress...
 
